@@ -1,0 +1,2 @@
+# commitlint-plugin-subject
+commitlint,
